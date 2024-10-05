@@ -1,3 +1,5 @@
+// Using sliding window approach
+
 class Solution{
     public:
     long long findMinDiff(vector<long long> a, long long n, long long m)
